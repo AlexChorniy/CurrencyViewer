@@ -55,7 +55,7 @@ function App() {
             Currency
           </Title>
           <Base>
-            {store?.base || 'waiting please...'}
+            {store?.base || 'please wait a moment...'}
           </Base>
         </Header>
         <Main>
